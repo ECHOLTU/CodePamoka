@@ -1,0 +1,15 @@
+.button-wrapper {
+align-items: center;
+display: flex;
+height: 100vn;
+justify-content: center;
+flex-wrap: wrap;
+flex-direction: column-reverse;
+/* flex-wrap: wrap; keliasi į kitą eilutę */
+
+
+}
+.button-wrapper button {
+    margin: 20px;
+    width: 250px;
+}
